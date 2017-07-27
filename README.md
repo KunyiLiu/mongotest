@@ -1,4 +1,6 @@
 # mongotest
-test of MongoDB
+test of MongoDB  
 singlenode -- mongo
+relica --n
+shard --s
 
